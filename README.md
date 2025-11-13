@@ -22,16 +22,11 @@ Todas as análises seguem o framework:
 
 ### 🔴 Severidade Alta
 
-- **[RCA-001](casos/RCA-002-queda-gravacao.md)** - Falha Sistema de Gravação Verint
+- **[RCA-001](casos/RCA-001-queda-gravacao.md)** - Falha Sistema de Gravação Verint
 
 ### 🟡 Severidade Média
 
-- **[RCA-004](casos/RCA-004-integracao-genesys.md)** - Erro de Integração Genesys Cloud
-- **[RCA-005](casos/RCA-005-backup-falha.md)** - Falha em Backup Automatizado
-
 ### 🟢 Severidade Baixa
-
-- **[RCA-006](casos/RCA-006-performance-query.md)** - Otimização de Query SQL
 
 ## 🛠️ Ferramentas Utilizadas
 
