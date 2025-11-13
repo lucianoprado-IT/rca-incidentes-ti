@@ -22,9 +22,7 @@ Todas as análises seguem o framework:
 
 ### 🔴 Severidade Alta
 
-- **[RCA-001](casos/RCA-001-indisponibilidade-ura.md)** - Indisponibilidade URA por Sobrecarga SQL
-- **[RCA-002](casos/RCA-002-queda-gravacao.md)** - Falha Sistema de Gravação Verint
-- **[RCA-003](casos/RCA-003-lentidao-relatorios.md)** - Lentidão Crítica em Relatórios BI
+- **[RCA-001](casos/RCA-002-queda-gravacao.md)** - Falha Sistema de Gravação Verint
 
 ### 🟡 Severidade Média
 
